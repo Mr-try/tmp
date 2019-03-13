@@ -1,0 +1,627 @@
+BODY {
+	MARGIN: 0px; LINE-HEIGHT: 21px
+}
+TABLE {
+	SCROLLBAR-FACE-COLOR: #dee3e7; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; FONT-FAMILY: 宋体; SCROLLBAR-DARKSHADOW-COLOR: #98aab1
+}
+.font1 {
+	FONT-SIZE: 14px; COLOR: #ffffff
+}
+.font1_z {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 23px
+}
+.font2 {
+	FONT-SIZE: 12px; COLOR: #000000;line-height:20px;
+}
+.font_353535 {
+	FONT-SIZE: 12px; COLOR: #353535;line-height:20px;
+}
+.font_59538F {
+	FONT-SIZE: 12px; COLOR: #59538F;line-height:20px;
+}
+.font_484180 {
+	FONT-SIZE: 12px; COLOR: #484180;line-height:20px;
+}
+.font_353535_14 {
+	FONT-SIZE: 14px; COLOR: #353535;line-height:28px;
+}
+.font_FAE400_14 {
+	FONT-SIZE: 14px; COLOR: #FAE400;line-height:28px;font-weight: bold;
+}
+.font_353535_14w {
+	FONT-SIZE: 14px; COLOR: #353535;line-height:25px;font-weight: bold;
+}
+
+.font_FF9403_14 {
+	FONT-SIZE: 14px; COLOR: #FF9403;line-height:25px;font-weight: bold;
+}
+.font_bs {
+	FONT-SIZE: 12px; COLOR: #ffffff;line-height:20px; font-weight: bold;
+}
+.font4 {
+	FONT-SIZE: 12px; COLOR: #666666
+}
+.font4_2 {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 30px
+}
+.font4_3 {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 18px
+}
+.font4_4 {
+	FONT-SIZE: 12px; COLOR: #cbcc66; LINE-HEIGHT: 18px
+}
+.font3 {
+	FONT-SIZE: 12px; COLOR: #a3610a
+}
+.font5 {
+	FONT-SIZE: 14px; COLOR: #a3610a
+}
+.font6 {
+	FONT-SIZE: 12px; COLOR: #a9a938
+}
+.font7 {
+	FONT-SIZE: 14px; COLOR: #000000;LINE-HEIGHT: 25px;
+}
+.td_xuxian {
+	BORDER-BOTTOM: #ADADAD 1px dashed; BORDER-COLLAPSE: collapse
+}
+
+<STYLE>BODY {
+	BACKGROUND: url() #fff; MARGIN: 0px
+}
+TABLE {
+	FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: 宋体,verdana
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: 宋体,verdana
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: 宋体,verdana
+}
+TEXTAREA {
+	FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: 宋体,verdana
+}
+DIV {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+P {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FORM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.lmig {
+	BACKGROUND-REPEAT: no-repeat
+}
+.alto {
+	VERTICAL-ALIGN: top
+}
+.bor1 {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.fD5 {
+	COLOR: #d50000
+}
+A.fD5:link {
+	COLOR: #d50000; TEXT-DECORATION: none
+}
+A.fD5:visited {
+	COLOR: #d50000; TEXT-DECORATION: none
+}
+A.fD5:active {
+	COLOR: #d50000; TEXT-DECORATION: none
+}
+A.fD5:hover {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+.fb {
+	FONT-WEIGHT: bold
+}
+.fF6 {
+	COLOR: #ff6634
+}
+.gb {
+	VERTICAL-ALIGN: top; LINE-HEIGHT: 20px
+}
+A:visited {
+	 LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+A:link {
+	 LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+A:hover {
+	 COLOR: #FF9403; LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+
+
+A.menu:link {
+	 COLOR: #ffffff;FONT-SIZE: 12px;font-weight: bold; TEXT-DECORATION: none
+}
+A.menu:visited {
+	  COLOR: #ffffff;FONT-SIZE: 12px;font-weight: bold; TEXT-DECORATION: none
+}
+A.menu:hover {
+	COLOR: #FAE400;font-weight: bold; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.menu:active {
+	COLOR: #ffffff;font-weight: bold; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+
+.alce {
+	TEXT-ALIGN: center
+}
+.alri {
+	TEXT-ALIGN: right
+}
+.alto {
+	VERTICAL-ALIGN: top
+}
+.altb {
+	VERTICAL-ALIGN: bottom
+}
+.txbd {
+	FONT-WEIGHT: bold
+}
+.txid {
+	TEXT-INDENT: 2em
+}
+#entNv {
+	COLOR: #fff; LINE-HEIGHT: 27px; TEXT-ALIGN: center
+}
+#entNv A {
+	COLOR: #fff
+}
+#entNv A:hover {
+	COLOR: #fff
+}
+#ent1l1 TD {
+	COLOR: #fff
+}
+#ent1l1 A {
+	COLOR: #fff
+}
+#ent1l1 A:hover {
+	COLOR: #fff
+}
+#ent1l1 .et1 {
+	FONT-WEIGHT: bold; LINE-HEIGHT: 25px
+}
+#ent1l1 .ex1 {
+	VERTICAL-ALIGN: top; TEXT-INDENT: 2em; LINE-HEIGHT: 22px
+}
+#ent1m1 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent1m1 .et2 {
+	FONT-SIZE: 18px; COLOR: #f00; LINE-HEIGHT: 34px; FONT-FAMILY: 黑体; TEXT-ALIGN: center
+}
+#ent1m1 .et2 A {
+	COLOR: #f00
+}
+#ent1m1 .et2 A:hover {
+	COLOR: #000
+}
+#ent1m1 .ex2 {
+	VERTICAL-ALIGN: top; LINE-HEIGHT: 21px
+}
+#ent1m1 .lkf0u {
+	COLOR: #f00
+}
+#ent1m1 .lkf0u A {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+#ent1m1 .lkf0u A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#ent1m2 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent1m2 .ex3 {
+	VERTICAL-ALIGN: top; LINE-HEIGHT: 22px
+}
+#ent1m2 .lkf0u {
+	COLOR: #f00
+}
+#ent1m2 .lkf0u A {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+#ent1m2 .lkf0u A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#ent1r1 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #eee; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent1r1 .et3 {
+	FONT-WEIGHT: bold; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#picr1 TD {
+	COLOR: #000; LINE-HEIGHT: 27px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#picr1 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#picr1 A {
+	COLOR: #000
+}
+#picr1 A:hover {
+	COLOR: #f00
+}
+#diaocha TD {
+	COLOR: #000
+}
+#diaocha .ex4 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; LINE-HEIGHT: 21px; PADDING-TOP: 0px
+}
+#diaocha .inp {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/ipbg.html) no-repeat; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 39px; LINE-HEIGHT: 28px; HEIGHT: 28px; BORDER-RIGHT-WIDTH: 0px
+}
+#diaocha .lk0fu {
+	COLOR: #00f
+}
+#diaocha .lk0fu A {
+	COLOR: #00f; TEXT-DECORATION: underline
+}
+#diaocha .lk0fu A:hover {
+	COLOR: #f00; TEXT-DECORATION: none
+}
+#ent2m1 .et4 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent2m1 .et4 A {
+	COLOR: #fff
+}
+#ent2m1 .et4 A:hover {
+	COLOR: #fff
+}
+#ent2m1 .bd1 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent2m1 .pic1 TD {
+	COLOR: #000; TEXT-ALIGN: center
+}
+#ent2m1 .pic1 DIV {
+	MARGIN-TOP: 5px; BACKGROUND: #ccc; LINE-HEIGHT: 26px
+}
+#ent2m1 .pic1 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent2m1 .pic1 A {
+	COLOR: #000
+}
+#ent2m1 .pic1 A:hover {
+	COLOR: #f00
+}
+#ent2m2 .et5 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent2m2 .et5 A {
+	COLOR: #fff
+}
+#ent2m2 .et5 A:hover {
+	COLOR: #fff
+}
+#ent2m2 .bd2 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent2m2 .ex5 {
+	COLOR: #3a3a3a; LINE-HEIGHT: 25px;font-size:14;
+}
+#ent2m2 .ex5 A {
+	COLOR: #000
+}
+#ent2m2 .ex5 A:hover {
+	COLOR: #f00
+}
+#ent2m2 .pic2 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent2r1 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #eee; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent2r1 .et6 {
+	FONT-WEIGHT: bold; COLOR: #3a3a3a; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#ent2r1 .et6 A {
+	COLOR: #3a3a3a
+}
+#ent2r1 .et6 A:hover {
+	COLOR: #f00
+}
+#picr2 TD {
+	COLOR: #3a3a3a; LINE-HEIGHT: 27px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#picr2 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#picr2 A {
+	COLOR: #3a3a3a
+}
+#picr2 A:hover {
+	COLOR: #f00
+}
+#ent3m1 .et7 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent3m1 .et7 A {
+	COLOR: #fff
+}
+#ent3m1 .et7 A:hover {
+	COLOR: #fff
+}
+#ent3m1 .bd3 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent3m1 .pic3 TD {
+	COLOR: #000; TEXT-ALIGN: center
+}
+#ent3m1 .pic3 DIV {
+	MARGIN-TOP: 5px; BACKGROUND: #ccc; LINE-HEIGHT: 26px
+}
+#ent3m1 .pic3 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent3m1 .pic3 A {
+	COLOR: #000
+}
+#ent3m1 .pic3 A:hover {
+	COLOR: #f00
+}
+#ent3r1 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #eee; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent3r1 .et8 {
+	FONT-WEIGHT: bold; COLOR: #3a3a3a; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#ent3r1 .et8 A {
+	COLOR: #3a3a3a
+}
+#ent3r1 .et8 A:hover {
+	COLOR: #f00
+}
+#picr3 TD {
+	COLOR: #3a3a3a; LINE-HEIGHT: 27px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#picr3 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#picr3 A {
+	COLOR: #3a3a3a
+}
+#picr3 A:hover {
+	COLOR: #f00
+}
+#ent4m1 .et9 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent4m1 .et9 A {
+	COLOR: #fff
+}
+#ent4m1 .et9 A:hover {
+	COLOR: #fff
+}
+#ent4m1 .bd4 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent4m1 .ex6 TD {
+	VERTICAL-ALIGN: top; COLOR: #535353; LINE-HEIGHT: 21px
+}
+#ent4m1 .ex6 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; MARGIN-BOTTOM: 4px; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent4m1 .ex6 A {
+	COLOR: #000
+}
+#ent4m1 .ex6 A:hover {
+	COLOR: #f00
+}
+#ent4m1 .ex7 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; TEXT-INDENT: 2em; PADDING-TOP: 0px
+}
+#ent4m1 .ex8 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#ent4m1 .lk53 {
+	COLOR: #535353
+}
+#ent4m1 .lk53 A {
+	COLOR: #535353
+}
+#ent4m1 .lk53 A:hover {
+	COLOR: #f00
+}
+#ent4m1 .pic4 TD {
+	COLOR: #000; TEXT-ALIGN: center
+}
+#ent4m1 .pic4 DIV {
+	MARGIN-TOP: 5px; BACKGROUND: #ccc; LINE-HEIGHT: 26px
+}
+#ent4m1 .pic4 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent4m1 .pic4 A {
+	COLOR: #000
+}
+#ent4m1 .pic4 A:hover {
+	COLOR: #f00
+}
+#ent4r1 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #eee; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent4r1 .et10 {
+	FONT-WEIGHT: bold; COLOR: #3a3a3a; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#ent4r1 .et10 A {
+	COLOR: #3a3a3a
+}
+#ent4r1 .et10 A:hover {
+	COLOR: #f00
+}
+#ent4r1 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent4r1 .ex9 {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 14px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; COLOR: #000; LINE-HEIGHT: 21px; PADDING-TOP: 0px
+}
+#ent4r1 .ex9 A {
+	COLOR: #000
+}
+#ent4r1 .ex9 A:hover {
+	COLOR: #f00
+}
+#ent5l1 {
+	BORDER-RIGHT: #880f34 7px solid; BORDER-TOP: #880f34 7px solid; BACKGROUND: #fff; BORDER-LEFT: #880f34 7px solid; BORDER-BOTTOM: #880f34 7px solid
+}
+#ent5l1 .et11 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#ent5l1 .et11 A {
+	COLOR: #fff
+}
+#ent5l1 .et11 A:hover {
+	COLOR: #fff
+}
+#ent5l1 .ex10 {
+	VERTICAL-ALIGN: top; COLOR: #515151; LINE-HEIGHT: 44px; TEXT-ALIGN: center
+}
+#ent5l1 .ex10 A {
+	COLOR: #515151
+}
+#ent5l1 .ex10 A:hover {
+	COLOR: #f00
+}
+#ent5l1 IMG {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid
+}
+#ent5m1 .et12 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent5m1 .et12 A {
+	COLOR: #fff
+}
+#ent5m1 .et12 A:hover {
+	COLOR: #fff
+}
+#ent5m1 .ex11 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 13px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; COLOR: #000; LINE-HEIGHT: 24px; PADDING-TOP: 0px
+}
+#ent5m1 .ex11 A {
+	COLOR: #000
+}
+#ent5m1 .ex11 A:hover {
+	COLOR: #f00
+}
+#ent5m1 .ex11 SPAN {
+	COLOR: #aeaeae
+}
+#ent5r1 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #eee; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid
+}
+#ent5r1 .et13 {
+	FONT-WEIGHT: bold; COLOR: #3a3a3a; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#ent5r1 .et13 A {
+	COLOR: #3a3a3a
+}
+#ent5r1 .et13 A:hover {
+	COLOR: #f00
+}
+#ent5r1 IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+#ent5r1 .ex12 {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 13px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; COLOR: #000; TEXT-INDENT: 2em; LINE-HEIGHT: 21px; PADDING-TOP: 0px
+}
+#ent5r1 .ex12 A {
+	COLOR: #000
+}
+#ent5r1 .ex12 A:hover {
+	COLOR: #f00
+}
+#ent6m1 .et14 {
+	PADDING-LEFT: 16px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 28px
+}
+#ent6m1 .et14 A {
+	COLOR: #fff
+}
+#ent6m1 .et14 A:hover {
+	COLOR: #fff
+}
+#ent6m1 .ex13 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 13px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; COLOR: #000; LINE-HEIGHT: 24px; PADDING-TOP: 0px
+}
+#ent6m1 .ex13 A {
+	COLOR: #000
+}
+#ent6m1 .ex13 A:hover {
+	COLOR: #f00
+}
+</STYLE>
+
+<STYLE>A.hui12l:link {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: none
+}
+A.hui12l:visited {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: none
+}
+A.hui12l:hover {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: none
+}
+A.hui12l:active {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: none
+}
+A.lan12l:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.lan12l:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.lan12l:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.lan12l:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+</STYLE>
+
+<STYLE type=text/css>.hei12 {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.lan12c {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #2d6eae; TEXT-DECORATION: none
+}
+.bai {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.hong12c {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.lan12c1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #375c77; TEXT-DECORATION: none
+}
+.lan12 {
+	FONT-SIZE: 12px; COLOR: #004592; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.llan12 {
+	FONT-SIZE: 12px; COLOR: #99ccff; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.lan14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #004592; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+BODY {
+	BACKGROUND-IMAGE: none
+}
+.kuang{BORDER-RIGHT: #ADADAD 1px solid; BORDER-LEFT: #ADADAD 1px solid; BORDER-BOTTOM: #ADADAD 1px solid;BORDER-TOP: #ADADAD 1px solid}
+
+.ldaohang1 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体";BACKGROUND-IMAGE: url("../image/l_bj.jpg"); 
+}
+.ldaohang2 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体";background-image:url("../image/l_bj1.jpg"); 
+}
+</STYLE>

@@ -1,0 +1,48 @@
+BODY {
+	MARGIN: 0px; BACKGROUND-COLOR: #fafafa
+}
+.xbiaoti {
+	FONT-SIZE: 12px; COLOR: #0d2135; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.daohanga {
+	FONT-SIZE: 12px; COLOR: #f6f6f6; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.daohangb {
+	FONT-SIZE: 12px; COLOR: #181818; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.shuoming1 {
+	FONT-SIZE: 12px; COLOR: #f79a08; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.shuoming2 {
+	FONT-SIZE: 14px; COLOR: #0009c5; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.shuoming3 {
+	FONT-SIZE: 12px; COLOR: #001f57; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.zhengwen {
+	FONT-SIZE: 12px; COLOR: #001f57; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.dbiaoti {
+	FONT-SIZE: 16px; COLOR: #1e1e1e; LINE-HEIGHT: 30px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.wzbanquan {
+	FONT-SIZE: 12px; COLOR: #999999; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.banquan {
+	FONT-SIZE: 12px; COLOR: #232323; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.shuoming4 {
+	FONT-SIZE: 14px; COLOR: #f6f6f6; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.zhengwenCopy {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.button {
+	BORDER-RIGHT: #d3e0e7 1px solid; PADDING-RIGHT: 3px; BACKGROUND-POSITION: 0px 50%; BORDER-TOP: #d3e0e7 1px solid; PADDING-LEFT: 3px; BACKGROUND-IMAGE: url(images/menu/btn_bg.html); PADDING-BOTTOM: 0px; FONT: 12px Tahoma, Verdana; BORDER-LEFT: #d3e0e7 1px solid; WIDTH: 50px; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: #d3e0e7 1px solid; BACKGROUND-REPEAT: repeat-x; HEIGHT: 18px; outline: 1px solid #D3E0E7
+}
+.button1 {
+	BORDER-RIGHT: #d3e0e7 1px solid; PADDING-RIGHT: 1px; BACKGROUND-POSITION: 0px 30%; BORDER-TOP: #d3e0e7 1px solid; PADDING-LEFT: 1px; BACKGROUND-IMAGE: url(images/menu/btn_bg.html); PADDING-BOTTOM: 0px; FONT: 12px Tahoma, Verdana; BORDER-LEFT: #d3e0e7 1px solid; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #d3e0e7 1px solid; BACKGROUND-REPEAT: repeat-x; HEIGHT: 18px; outline: 1px solid #D3E0E7
+}
+.button3 {
+	BORDER-RIGHT: #d3e0e7 1px solid; PADDING-RIGHT: 1px; BACKGROUND-POSITION: 0px 30%; BORDER-TOP: #d3e0e7 1px solid; PADDING-LEFT: 1px; BACKGROUND-IMAGE: url(images/menu/btn_bg-2.html); PADDING-BOTTOM: 0px; FONT: 12px Tahoma, Verdana; BORDER-LEFT: #d3e0e7 1px solid; WIDTH: 50px; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: #d3e0e7 1px solid; BACKGROUND-REPEAT: repeat-x; HEIGHT: 47px; outline: 1px solid #D3E0E7
+}
